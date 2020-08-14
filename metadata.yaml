@@ -1,0 +1,62 @@
+_repo: Gray-Lady-and-the-Birds-Stories-of-the-Bird-Year-for-Home-and-School_62793
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Horsfall, R. Bruce (Robert Bruce)
+    aliases:
+    - Horsfall, Robert Bruce
+    - Horsfall, Bruce
+    birthdate: 1869
+    deathdate: 1948
+    gutenberg_agent_id: '2143'
+    url: http://www.gutenberg.org/2009/agents/2143
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Bruce_Horsfall
+  - agent_name: Fuertes, Louis Agassiz
+    birthdate: 1874
+    deathdate: 1927
+    gutenberg_agent_id: '4612'
+    url: http://www.gutenberg.org/2009/agents/4612
+    wikipedia: https://en.wikipedia.org/wiki/Louis_Agassiz_Fuertes
+  - agent_name: Gleeson, Joseph M. (Joseph Michael)
+    aliases:
+    - Gleeson, J. M. (Joseph Michael)
+    - Gleeson, Joseph Michael
+    birthdate: 1861
+    deathdate: 1917
+    gutenberg_agent_id: '35873'
+    url: http://www.gutenberg.org/2009/agents/35873
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_M._Gleeson
+  - agent_name: Brooks, Allan
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '43944'
+    url: http://www.gutenberg.org/2009/agents/43944
+    wikipedia: https://en.wikipedia.org/wiki/Allan_Brooks
+creator:
+  author:
+    agent_name: Wright, Mabel Osgood
+    aliases:
+    - Wright, Mrs. James Osborne
+    - Wright, James Osborne, Mrs.
+    - Barbara
+    birthdate: 1859
+    deathdate: 1934
+    gutenberg_agent_id: '4028'
+    url: http://www.gutenberg.org/2009/agents/4028
+    wikipedia: https://en.wikipedia.org/wiki/Mabel_Osgood_Wright
+description: ''
+gutenberg_issued: '2020-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62793'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- Juvenile literature'
+- !lcc 'QL'
+- !lcsh 'Birds -- New England'
+- GITenberg
+title: 'Gray Lady and the Birds: Stories of the Bird Year for Home and School'
+url: http://www.gutenberg.org/ebooks/62793
